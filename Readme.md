@@ -14,7 +14,7 @@
 12. [Free API](#free-api)
 13. [Design Tools](#design-tools)
 14. [Play and Learn](#play-and-learn)
-15. [Job Site](#job-site)
+15. [Job Sites](#job-site)
 
 # Get Started
 
@@ -44,6 +44,7 @@
 
 1. [Unsplash](https://unsplash.com)
 2. [Pexels](https://www.pexels.com)
+3. [Freepik](https://www.freepik.com/)
 
 ### Icons
 
