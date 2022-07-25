@@ -1,11 +1,6 @@
-# React Tutorial
+# Front-end Resources
 
-1. [React Fundamental Concepts](https://github.com/dev-nazmulislam/react-short-note/tree/react-fundamental)
-2. [React Advanced concepts](https://github.com/dev-nazmulislam/react-short-note/tree/advanced)
-
-# Installation for client side with website link
-
-1.  [Create React App](#creact-react-app)
+1.  [CSS Frameworks](#css-frameworks)
 2.  [Router](#react-router)
 3.  [React Bootstrap](#react-bootstrap)
 4.  [React tailwind](#react-taillwind)
@@ -58,7 +53,7 @@
 
 # Get Started
 
-### [Creact React App](https://react-bootstrap.github.io/)
+### [CSS Frameworks](https://react-bootstrap.github.io/)
 
 ```Js
 npx create-react-app my-app
