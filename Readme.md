@@ -1,26 +1,46 @@
-# Front-end Resources
+# Front-End Resources
 
 1.  [CSS Frameworks](#css-frameworks)
-2.  [Icons](#icons)
-3.  [React Bootstrap](#react-bootstrap)
-4.  [React tailwind](#react-taillwind)
-5.  [Firebase](#firebase)
-6.  [React Firebase Hooks](#react-firebase-hooks)
-7.  [React hooks form](#React-hooks-form)
-8.  [React Icons](react-icons)
-9.  [react-hot-toast](#react-hot-toast)
-10. [Rechart](#react-recharts)
-
+2.  [Illustrations](#illustrations)
+3.  [Free Images](#free-images)
+4.  [Icons](#icons)
+5.  [Font](#fonts)
+6.  [Code Validator](#code-validator)
+7.  [Code Format](#code-format)
+8.  [Responsive Checker](#responsive-checker)
+9.  [Website Speed](#website-speed)
+10. [Favicon Generator](#favicon-generator)
+11. [Deployement](#deployement)
+12. [Illustrations](#illustrations)
 
 # Get Started
 
 ### CSS Frameworks
 
 1. [Bootstrap 5](https://getbootstrap.com/)
-1. [Tailwind CSS](https://tailwindcss.com/)
-1. [Foundation](https://get.foundation/)
-1. [Bulma](https://bulma.io/)
-1. [Reflexgrid](https://reflexgrid.com/)
+2. [Tailwind CSS](https://tailwindcss.com/)
+3. [Foundation](https://get.foundation/)
+4. [Bulma](https://bulma.io/)
+5. [Reflexgrid](https://reflexgrid.com/)
+
+### Illustrations
+
+1. [Invision app](https://www.invisionapp.com/inside-design/design-resources/)
+2. [Icons 8](https://icons8.com/)
+3. [Undraw](https://undraw.co/)
+4. [Draw Kit](https://drawkit.com/)
+5. [ManyPixels](https://www.manypixels.co/)
+5. [Humaaans](https://www.humaaans.com/)
+6. [Free illustration](https://www.freellustrations.com/)
+7. [Blush](https://blush.design/)
+8. [IRA Design](https://iradesign.io/)
+9. [Open Doodles](https://www.opendoodles.com/)
+10. [Flow Lava](https://flowlava.club/)
+
+### Free images
+
+1. [Unsplash](https://unsplash.com)
+2. [Pexels](https://www.pexels.com)
 
 ### Icons
 
@@ -29,7 +49,7 @@
 3. [Icon Finder](https://www.iconfinder.com)
 4. [Material Icon](https://fonts.google.com/icons?selected=Material+Icons)
 
-### [React Bootstrap](https://react-bootstrap.github.io/)
+### Fonts
 
 > 2 Way to install react bootstrap to your projects
 
