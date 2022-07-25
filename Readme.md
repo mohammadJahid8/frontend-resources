@@ -6,12 +6,15 @@
 4.  [Icons](#icons)
 5.  [Font](#fonts)
 6.  [Code Validator](#code-validator)
-7.  [Code Format](#code-format)
+7.  [Code Formatter](#code-format)
 8.  [Responsive Checker](#responsive-checker)
 9.  [Website Speed](#website-speed)
 10. [Favicon Generator](#favicon-generator)
 11. [Deployement](#deployement)
-12. [Illustrations](#illustrations)
+12. [Free API](#free-api)
+13. [Design Tools](#design-tools)
+14. [Play and Learn](#play-and-learn)
+15. [Job Site](#job-site)
 
 # Get Started
 
@@ -51,173 +54,78 @@
 
 ### Fonts
 
-> 2 Way to install react bootstrap to your projects
+1. [Google Fonts](https://fonts.google.com)
+2. [Custom Fonts](https://www.dafont.com/)
 
-1. Install bootstrap with cdn (Place bootstrap cdn link in index file.)
-1. Install bootstrap with npm & place css link in your app.js or index.js.
+### Code Validator
 
-### installation with npm command
+1. [ValidatorW3(HTML)](https://validator.w3.org)
+2. [Jigsaw(CSS)](https://jigsaw.w3.org/css-validator)
 
-```
-npm install react-bootstrap bootstrap@5.1.3
-```
+### Code Formatter
 
-### Import CSS file
+1. [HTML](https://www.freeformatter.com/html-formatter.html)
+2. [CSS](https://www.freeformatter.com/css-beautifier.html)
+3. [JS](https://www.freeformatter.com/javascript-beautifier.html)
 
-```
-import 'bootstrap/dist/css/bootstrap.min.css';
-```
+### Responsive Checker
 
-### installation with cdn
+1. [Google Test](https://search.google.com/test/mobile-friendly)
+2. [Responsive Checker](https://www.responsivedesignchecker.com)
 
-#### Import Css file
+#### Website Speed
 
-```Html
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-```
+1. [Google](https://developers.google.com/speed/pagespeed/insights)
+2. [Tools Pingdom](https://tools.pingdom.com)
+3. [Gtmetrix](https://gtmetrix.com/)
 
-#### Import js file
+#### Favicon Generator
 
-```Html
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-```
+1. [Real Favicon Generator](https://realfavicongenerator.net/)
+2. [Favicon Generator org](https://www.favicon-generator.org/)
+3. [Favicon Io](https://favicon.io/)
 
-### [React Taillwind](https://tailwindcss.com/docs/guides/create-react-app)
+### Deployement
 
-#### install with cdn
+1. [GitHub](https://pages.github.com)
+2. [Netlify](https://www.netlify.com/)
+3. [Vercel](https://vercel.com/)
+4. [Surge](https://surge.sh/)
+5. [Heroku(For Server](https://www.heroku.com)
 
-> Add the CDN script tag to the <head> of your HTML file, and start using Tailwind’s utility classes to style your content.
+#### Free API
 
-```Html
-  <script src="https://cdn.tailwindcss.com"></script>
-```
+1. [The MealDB](https://www.themealdb.com/api.php)
+3. [The Sports DB](https://www.thesportsdb.com/)
+4. [Weather API](https://www.weatherapi.com/)
+5. [OMDb Api](https://www.omdbapi.com/)
+6. [The AudioDb](https://www.theaudiodb.com/)
 
-#### Install with CLI
+#### Design Tools
 
-1. Install Tailwind & Tailwind configaration with npm
+1. [Shape Divider](https://www.shapedivider.app/)
+2. [Carbon](https://carbon.now.sh/)
+3. [Wappalyzer](https://www.wappalyzer.com/)
+4. [Photo Pea](https://www.photopea.com/)
+5. [BG Remover](https://www.remove.bg/)
+6. [Canva](https://www.canva.com/)
 
-```
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-```
+#### Play and Learn
 
-2. Replace content line in tailwind.config.js file
+1. [CSS Battle](https://cssbattle.dev)
+2. [Flexbox Froggy](https://flexboxfroggy.com)
+3. [Flexbox Defense](http://www.flexboxdefense.com)
+4. [Codier](https://codier.io/)
 
-```
-content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
-```
+#### Job Sites
 
-3. Add tailwind directives to your index.css file. Then injoy & npm run start.
-
-```
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
-
-### [Firebase](https://firebase.google.com/)
-
-- Create Firebase Project and register your app.
-- Install SDK
-
-```Js
-npm install firebase
-```
-
-- Initialize Firebase in your app and create a Firebase App object.
-- Initialize Firebase auth from firebase/auth.
-
-```Js
-import { getAuth } from "firebase/auth";
-const auth = getAuth(app)
-```
-
-### [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)
-
-```Js
-npm install --save react-firebase-hooks
-```
-
-### [React hooks form](https://react-hook-form.com/)
-
-```Js
-npm install react-hook-form
-```
-
-### [React Icons](https://react-icons.github.io/react-icons/)
-
-```Js
-npm install react-icons --save
-```
-
-- import react icons
-
-```Js
-import { FaBeer } from 'react-icons/fa';
-```
-
-### [react-hot-toast](https://react-hot-toast.com/)
-
-```Js
-npm install react-hot-toast
-```
-
-### [React Recharts](https://recharts.org/en-US/)
-
-```
-npm install recharts
-```
-
-### [Server setup with mongodb atlas](https://www.mongodb.com/atlas/database)
-
-[mongodb doc](https://www.mongodb.com/docs/drivers/node/current/)
-
-- Create folder
-- npm init
-- Creacte index.js file
-- Add some script on pakage.json file
-
-```Js
-"start":"node index.js",
-"start-dev":"nodemon index.js"
-```
-
-- Create MongoDB Atlas Account with 5 steeps
-
-  1. sign up. with google access.
-  2. create cluster.
-  3. Create user & password.
-  4. Network Access --> ip address: allow all.
-  5. database > Connect > code copy paste in index.js
-
-### [Express](https://expressjs.com/)
-
-```Js
-npm install express
-```
-
-### [Nodemon](https://www.npmjs.com/package/nodemon)
-
-```Js
-npm install -g nodemon
-```
-
-### [Cors](http://expressjs.com/en/resources/middleware/cors.html)
-
-```Js
-npm install cors
-```
-
-### [Mongodb](https://www.mongodb.com/docs/drivers/node/current/)
-
-```Js
-npm install mongodb
-```
-
-### [dotenv](https://www.npmjs.com/package/dotenv)
-
-```Js
-npm install dotenv --save
-```
+1. [Angel Co](https://angel.co/jobs)
+2. [Naukri](https://www.naukri.com/)
+3. [Indeed](https://www.indeed.com/)
+4. [Gradsiren](https://www.gradsiren.com/)
+5. [RemoteHub](https://www.remotehub.com/)
+6. [Flexjobs](https://www.flexjobs.com/)
+7. [InternShala](https://internshala.com/)
+8. [Vizajobs](https://vizajobs.com/)
+9. [The Ladders](https://www.theladders.com/)
+10. [Jooble](https://jooble.org/)
