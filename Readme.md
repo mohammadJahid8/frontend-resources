@@ -1,7 +1,7 @@
 # Front-end Resources
 
 1.  [CSS Frameworks](#css-frameworks)
-2.  [Router](#react-router)
+2.  [Icons](#icons)
 3.  [React Bootstrap](#react-bootstrap)
 4.  [React tailwind](#react-taillwind)
 5.  [Firebase](#firebase)
@@ -22,11 +22,12 @@
 1. [Bulma](https://bulma.io/)
 1. [Reflexgrid](https://reflexgrid.com/)
 
-### [React Router](https://reactrouter.com/docs/en/v6/getting-started/overview)
+### Icons
 
-```Js
-npm install react-router-dom@6
-```
+1. [Font Awesome](https://fontawesome.com/)
+2. [Line Awesome](https://icons8.com/line-awesome)
+3. [Icon Finder](https://www.iconfinder.com)
+4. [Material Icon](https://fonts.google.com/icons?selected=Material+Icons)
 
 ### [React Bootstrap](https://react-bootstrap.github.io/)
 
