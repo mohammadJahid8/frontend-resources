@@ -14,7 +14,7 @@
 
 # Get Started
 
-### [CSS Frameworks](https://react-bootstrap.github.io/)
+### CSS Frameworks
 
 1. [Bootstrap 5](https://getbootstrap.com/)
 1. [Tailwind CSS](https://tailwindcss.com/)
