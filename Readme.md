@@ -11,53 +11,16 @@
 9.  [react-hot-toast](#react-hot-toast)
 10. [Rechart](#react-recharts)
 
-# Installation for server side with website link
-
-1. [Server setup with mongodb atlas](#server-setup-with-mongodb-atlas)
-2. [Express](#express)
-3. [Nodemon](#nodemon)
-4. [Cors](#cors)
-5. [Mongodb](#mongodb)
-6. [dotenv](#dotenv)
-
-# Herouku deploy
-
-### One Time for your computer
-
-1. Create Herouku account.
-2. Install herouku CLI.
-3. Download & install herouku app.
-4. Check some task on client side.
-5. herouku login.
-6. herouku create.
-7. git push herouku main.
-
-### For each Projects one time.
-
-1. herouku create.
-2. Make sure your git add, git commit, git push up to date.
-3. git push herouku main.
-4. Go to Dashboard > Current Projects > Settings > Reveal Config Vars and add .env file.
-
-### Update Server with new changes.
-
-1. Make Change.
-2. Make sure your git add, git commit, git push up to date.
-3. git push herouku main.
-
-### Connect server with client side & deply firebase.
-
-1. Replace locall host with herouku link.
-2. npm run build.
-3. firebase deploy.
 
 # Get Started
 
 ### [CSS Frameworks](https://react-bootstrap.github.io/)
 
-```Js
-npx create-react-app my-app
-```
+1. [Bootstrap 5](https://getbootstrap.com/)
+1. [Tailwind CSS](https://tailwindcss.com/)
+1. [Foundation](https://get.foundation/)
+1. [Bulma](https://bulma.io/)
+1. [Reflexgrid](https://reflexgrid.com/)
 
 ### [React Router](https://reactrouter.com/docs/en/v6/getting-started/overview)
 
